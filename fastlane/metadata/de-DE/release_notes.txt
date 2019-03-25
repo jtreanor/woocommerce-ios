@@ -1,4 +1,0 @@
-- Rufe den Bildschirm mit den Bestelldetails auf, um den Status einer Bestellung manuell zu ändern oder die Versandverfolgung anzuzeigen.
-- Wir bieten jetzt umfassende Unterstützung für individuelle Bestellstatusbezeichnungen und zeigen diese korrekt an.
-- Du kannst jetzt nach individuellem Bestellstatus filtern.
-- RTL-Sprachunterstützung wurde verbessert, wobei der grafische Komponentenwechsel besser verarbeitet wird.

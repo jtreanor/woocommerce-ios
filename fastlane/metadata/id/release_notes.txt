@@ -1,4 +1,0 @@
-- Buka layar Detail Pesanan untuk mengubah status pesanan secara manual atau melihat pelacakan pengiriman.
-- Kini kami mendukung penuh dan menampilkan label status pesanan kustom dengan benar.
-- Kini Anda dapat menyaring menurut status pesanan kustom.
-- Dukungan bahasa RTL telah ditingkatkan, dengan penanganan tampilan komponen grafis yang lebih baik.
